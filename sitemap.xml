@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ksi1110.github.io/2024/11/12/hello-world/</loc>
+    
+    <lastmod>2024-12-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ksi1110.github.io/2024/12/19/%E4%B8%80%E4%B8%AA%E7%89%87%E6%AE%B5/</loc>
     
     <lastmod>2024-12-20</lastmod>
@@ -37,15 +46,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://ksi1110.github.io/2024/11/12/hello-world/</loc>
-    
-    <lastmod>2024-12-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://ksi1110.github.io/</loc>
@@ -54,6 +54,20 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://ksi1110.github.io/tags/hexo/</loc>
+    <lastmod>2024-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ksi1110.github.io/tags/example/</loc>
+    <lastmod>2024-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://ksi1110.github.io/tags/%E9%9A%8F%E7%AC%94/</loc>
